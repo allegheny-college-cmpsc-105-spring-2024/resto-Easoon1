@@ -3,41 +3,23 @@ layout: post
 title: "about"
 ---
 
-- TODO: look at the raw markdown below for examples of making links, bold, colors, quotes, etc.
-- TODO: replace the content of this file with a description of the concept of your restaurant
-  - this markdown file will become the home page of the website automatically, so include
-    information that you think belongs on the home page.
-  - remember, two colleagues will review your site!
-  - use good markdown style
-  - the website formatting is limited to markdown, but
-  [markdown can still do a lot](https://www.markdownguide.org/tools/jekyll/)
-- TODO: As a place holder, add a heading at the end for `Reviews` and make up two quotes to
-  put in this section.
-  - Use Markdown syntax for the quotes.
-  - after the review phase, you can replace this with two real quotes from your fellow
-  food critics.
-- TODO: finish up by removing _all_ unneeded material below line 6.
+
+# This resruant only sells meat of the highest quilty if you aren't an upper class meat conneissur then don't show up. 
+  
+
+  
+#Jason's High quailty meat 
+
 
 ![logo](./assets/images/magnifying-glass-logo.jpeg){:width="200"}
 
-# Allegheny College, CMPSC 105.00 Data Exploration
 
 ## <span style="color:green">Course Description</span>
 
->An introduction to the methods of collecting, exploring, transforming and visualizing data for
->storytelling. Often participating in team-based and hands-on activities, students learn how to
->use web platforms and dashboards to acquire, explore and investigate data to generate summarized
->key data insights using visual techniques. Students also apply open-source programming language to
->discover patterns in the data, test hypotheses, and check assumptions using graphical representations.
->During a weekly laboratory session, students employ cutting-edge software tools to complete projects,>reporting on their results through both written documents and oral presentations. Students are invited
->to use their own departmentally approved laptop in this course; a limited number of laptops are
->available for use during class and lab sessions.
 
-_Prerequisite:_ None
+_## Discription 
 
-_Distribution Requirements:_ QR, SP.
-
-DR tag rationale: This course will primarily focus on methods of data collection, foundational data analysis of numerical data, and visualizations of such data. Additionally, students will participate in the scientific process during the exploratory data analysis and apply scientific reasoning to analyze and synthesize data.
+My fine establishment is one of the top tier meat houses in the nation. We bring in food critiques from all over the wrold, they still havn't had anything bad to say about my food,service or decor. I offer a small but esquite slection of meat which are the following kobe beef this can normally only be found in Japan. Next we have Matsusaka beef another fine meat noramlly onnly found in Japan, and finally Jamon lberico bellota. This is ham from free-range pigs that roam oak forest along the border between Spain and Portugal. 
 
 ## <span style="color:green">Learning Outcomes</span>
 
