@@ -1,8 +1,5 @@
 ---
-layout: page
-title: amazing menu
-permalink: /menu
-nav: true
+
 ---
 
 ## MENU 
